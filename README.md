@@ -1,1 +1,3 @@
 # Smsbomber
+Open Termux
+
